@@ -1,0 +1,798 @@
+[23-Oct-2020 15:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 16:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/alumini.php(461): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 16:09:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 16:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/placementoverview.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/canteen.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:17:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/automobile.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/recruiters.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/alumini.php(461): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 17:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 19:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 19:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/admissionprocedure.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/entc.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:39:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/mechanical.php(65): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gallery.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:55:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 20:58:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 21:42:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/secretarysmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 22:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 22:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 22:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 23:21:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 23:21:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 23:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[23-Oct-2020 23:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/documentsrequired.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:00:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:03:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/entc.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/labs.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/civil.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/intro.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/alumini.php(461): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/canteen.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:04:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gallery.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/library.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/brochure.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:07:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/transport.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/aboutdkkkp.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/boyshostel.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/electrical.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:14:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/guesthouse.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/mechanical.php(65): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/recruiters.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/ceosmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/computerlab.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/missionvision.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/generalscience.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/documentsrequired.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/placementoverview.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:15:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/secretarysmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/admissionprocedure.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/electrical.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:32:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/computerlab.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/intro.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/aboutdkkkp.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gallery.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/canteen.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/secretarysmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/transport.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/ceosmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/boyshostel.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/guesthouse.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/missionvision.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/library.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/computerlab.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/mechanical.php(65): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/labs.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/entc.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/alumini.php(461): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/civil.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/electrical.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/recruiters.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/generalscience.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/placementoverview.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/admissionprocedure.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/brochure.php(127): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/documentsrequired.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 01:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 01:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:15:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/documentsrequired.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 02:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/civil.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:08:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/aboutdkkkp.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/missionvision.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/civil.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/ceosmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/secretarysmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:14:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/entc.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/mechanical.php(65): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:21:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/intro.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/entc.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/ceosmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/electrical.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gallery.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:37:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/gbody.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/missionvision.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:42:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/secretarysmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/aboutdkkkp.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/intro.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:47:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/principalmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 03:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/mechanical.php(65): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 04:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 04:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/index.php(68): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 04:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/electrical.php(64): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
+[24-Oct-2020 05:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php:10
+Stack trace:
+#0 /home/dkkkpmba/public_html/dkkkpbpp.com/newsticker.php(38): include()
+#1 /home/dkkkpmba/public_html/dkkkpbpp.com/presidentsmessage.php(71): include('/home/dkkkpmba/...')
+#2 {main}
+  thrown in /home/dkkkpmba/public_html/dkkkpbpp.com/conn.php on line 10
