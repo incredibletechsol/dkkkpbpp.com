@@ -222,3 +222,56 @@
 "2020-09-24 05:00:59",INFO,--,"Alumini Data Deleted",70,/home/dkkkpmba/public_html/dkkkpbpp.com/ControlPanel/aluminiactions.php
 "2020-09-28 07:03:36",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2020-09-28','Time Table Summer Final Semester','Time Table Summer Final Semester 2020','time table summer -202009282020.pdf','')",96,/home/dkkkpmba/public_html/dkkkpbpp.com/ControlPanel/newsactions.php
 "2020-09-28 07:03:36",INFO,--,"News Data inserted",100,/home/dkkkpmba/public_html/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-03-05 14:48:18",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,deptname,designation,qualification,experience,photo) values('Teaching','Abhishek Jaiswal','Electronics and Telecommunication','Software Engineer','Diploma in Computer Science and Engineering','1','Abhishek Jaiswal.jpg')",93,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-03-05 14:48:18",INFO,--,"Faculty Data inserted",97,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-03-05 14:48:50",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='146'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-03-05 14:48:50",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:27:03",INFO,--,"Inserting new Document Data :::INSERT INTO tbl_documents(category,description,filename) values('General','axroix','index.html')",92,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/documentactions.php
+"2021-05-11 21:27:03",INFO,--,"Document Data inserted",96,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/documentactions.php
+"2021-05-11 21:27:15",INFO,--,"Deleting Faculty Data :::delete from tbl_documents where docid='5'",206,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/documentactions.php
+"2021-05-11 21:27:15",INFO,--,"Document Data Deleted",208,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/documentactions.php
+"2021-05-11 21:33:34",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-05-13','Hello Admn My axrox','Hello Admn My axroix Hello Admn My axroix Hello Admn My axroix Hello Admn My axroix Hello Admn My axroix','','asd.jpg')",96,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:33:34",INFO,--,"News Data inserted",100,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:33:49",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='54'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:33:49",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:33:53",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='57'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:33:53",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:34:22",INFO,--,"Updating Faculty Data :::UPDATE tbl_faculty SET type='Teaching',name='Hacker BY 4xroix',deptname='Electronics and Telecommunication',designation='Lecturer Tpo',qualification='ME ',experience='10',photo='Hacker BY 4xroix.jpg' where id='58'",342,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:36:17",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='63'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:36:17",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-05-11 21:36:26",INFO,--,"Deleting News Data :::delete from tbl_news where id='30'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:36:26",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:01",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-05-13','Hacked By axroıx','Hacked By axroıx, Hacked By axroıx Hacked By axroıx Hacked By axroıx Hacked By axroıx Hacked By axroıx Hacked By axroıx Hacked By axroıx','','asd.jpg')",96,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:01",INFO,--,"News Data inserted",100,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:09",INFO,--,"Deleting News Data :::delete from tbl_news where id='33'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:09",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:12",INFO,--,"Deleting News Data :::delete from tbl_news where id='34'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:12",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:15",INFO,--,"Deleting News Data :::delete from tbl_news where id='35'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:15",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:18",INFO,--,"Deleting News Data :::delete from tbl_news where id='36'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:18",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:20",INFO,--,"Deleting News Data :::delete from tbl_news where id='37'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-11 21:37:20",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:50:21",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-06-10','ckraz','ckra0z','','')",96,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:50:21",INFO,--,"News Data inserted",100,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:52:47",INFO,--,"Deleting News Data :::delete from tbl_news where id='38'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:52:47",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:52:54",INFO,--,"Deleting News Data :::delete from tbl_news where id='39'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:52:54",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:54:05",INFO,--,"Inserting News Data :::INSERT INTO tbl_news(newsdate,subject,description,attachment,image) values('2021-06-10','ckraOz','ckra0z','Screenshot_2021-05-30_13_06_44.png','Screenshot_2021-05-30_13_06_44.png')",96,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-05-31 22:54:05",INFO,--,"News Data inserted",100,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-06-01 21:15:37",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,deptname,designation,qualification,experience,photo) values('Teaching','ckra0z','Mechanical Engineering','<script>aler(""1"")</script>','1','1','ckra0z.png')",93,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 21:15:37",INFO,--,"Faculty Data inserted",97,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:40:17",INFO,--,"Inserting new Faculty Data :::INSERT INTO tbl_faculty(type,name,deptname,designation,qualification,experience,photo) values('Teaching','<script>alert(""1"")</script>','Mechanical Engineering','<script>aler(""1"")</script>','1','1','<script>alert(""1"")</script>.png')",93,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:40:17",INFO,--,"Faculty Data inserted",97,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:50:51",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='147'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:50:51",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:53:01",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='148'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:53:01",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:53:10",INFO,--,"Deleting Faculty Data :::delete from tbl_faculty where id='58'",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-01 22:53:10",INFO,--,"Faculty Data Deleted",202,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/facultyactions.php
+"2021-06-12 04:40:03",INFO,--,"Deleting News Data :::delete from tbl_news where id='40'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-06-12 04:40:03",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-06-12 04:40:10",INFO,--,"Deleting News Data :::delete from tbl_news where id='41'",198,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
+"2021-06-12 04:40:10",INFO,--,"News Data Deleted",200,/home/kasturic/public_html/Websites/dkkkpbpp.com/ControlPanel/newsactions.php
