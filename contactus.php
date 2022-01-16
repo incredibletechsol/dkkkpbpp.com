@@ -178,9 +178,9 @@
 
 								<li><i class="fa fa-map-marker"></i> <p><strong>Address</strong>: A/P-Kalamb-Walchandnagar,Tal : Indapur Dist : Pune,Pin Code:413114</p></li>
 
-								<li><i class="fa fa-user"></i> <p><strong>Phone</strong>:252420/254720</p></li>
+								<li><i class="fa fa-user"></i> <p><strong>Phone</strong>:252420/254720,9960003113</p></li>
 
-								<li><i class="fa fa-envelope"></i> <p><strong>Email</strong>: <a href="#">bpp.kalamb@dkkkpbpp.com</a></p></li>
+								<li><i class="fa fa-envelope"></i> <p><strong>Email</strong>: <a href="#">bpp.kalamb@dkkkpbpp.com,1513principal@msbte.com</a></p></li>
 
 								<li><i class="fa fa-globe"></i> <p><strong>Web</strong>: <a href="#" data-placement="bottom" data-toggle="tooltip" title="www.dkkkppgs.com">www.dkkkpbpp.com</a></p></li>
 

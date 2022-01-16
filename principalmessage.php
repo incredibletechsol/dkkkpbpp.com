@@ -57,7 +57,7 @@
 								<div id="myTabContent1" class="tab-content clearfix">
 									<div class="tab-pane fade active in" id="Popular">
 									   <p align="left"><img src="images/principal.jpg" width="325" height="250" border="0"></p>
-										<p align="justify"><b>Prof. Mr.Thombare Nagesh Mahadev(M.sc BE.Civil)<br>
+										<p align="justify"><b>Prof. Mr.Thombare Nagesh Mahadev(M.sc M.E.Civil and Environmental)<br>
 										Principal</b></p>
 									</div>
 								</div>

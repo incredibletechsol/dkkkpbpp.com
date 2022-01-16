@@ -5,8 +5,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-7 hidden-xs top-info">
-                        <span><i class="fa fa-phone"></i>Phone: 02118-252420/254720</span>
-                        <span><i class="fa fa-envelope"></i>Email: bpp.kalamb@dkkkpbpp.com</span>
+                        <span><i class="fa fa-phone"></i>Phone: 02118-252420/254720,9960003113</span>
+                        <span><i class="fa fa-envelope"></i>Email: bpp.kalamb@dkkkpbpp.com,1513principal@msbte.com</span>
                     </div>
 					<!--
                     <div class="col-sm-5 top-info">
