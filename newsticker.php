@@ -3,7 +3,7 @@
 	<head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>jquery smartmarquee</title>
-	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 	<link href="css/jquery.smartmarquee.css" rel="stylesheet">
 	<script src="js/jquery.smartmarquee.js"></script>
 	<script language="javascript">
